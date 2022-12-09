@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/book-list-firebase/static/css/main.aeda2cee.css",
+    "main.js": "/book-list-firebase/static/js/main.cf6d2578.js",
+    "index.html": "/book-list-firebase/index.html",
+    "main.aeda2cee.css.map": "/book-list-firebase/static/css/main.aeda2cee.css.map",
+    "main.cf6d2578.js.map": "/book-list-firebase/static/js/main.cf6d2578.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aeda2cee.css",
+    "static/js/main.cf6d2578.js"
+  ]
+}
